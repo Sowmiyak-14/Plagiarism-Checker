@@ -1,0 +1,5 @@
+Type: Animals can be divided into five types: mammals, birds, reptiles, amphibians, and insects.
+Backbone: Animals can be divided into vertebrates and invertebrates. Vertebrates include mammals, amphibians, reptiles, fish, and birds. Invertebrates are organisms without a backbone.
+Eating habits: Animals can be categorized as herbivores, carnivores, and omnivores.
+Wild or domestic: Animals can be categorized as wild or domestic. 
+Animals are also known for their size, diversity, abundance, and mobility. 
